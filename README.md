@@ -1,6 +1,6 @@
-#XML VEHICLE - MARWAN
+# XML VEHICLE - XDESIGN
 
-This an Web application to deal with an XML data.
+This is a Web application to deal with an XML data.
 
 * User can Upload an XML file to the Database.
 * Fetch readable data to the browser from the Database.
