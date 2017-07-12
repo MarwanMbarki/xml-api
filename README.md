@@ -1,4 +1,4 @@
-# XML VEHICLE - XDESIGN
+# XML-API - XDESIGN
 
 This is a Web application to deal with an XML data.
 
