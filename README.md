@@ -1,6 +1,6 @@
 # XML-API - XDESIGN
 
-This is a Web application to deal with an XML data.
+Web aplication help the user to upload and XML file to MySQL Database. In addition It provide
 
 * User can Upload an XML file to the Database.
 * Fetch readable data to the browser from the Database.
