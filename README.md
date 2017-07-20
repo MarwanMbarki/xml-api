@@ -1,4 +1,4 @@
-# XML- API - MYSQLi
+# XML- API - MYSQL
 
 Web aplication help the user to upload and XML file to MySQL Database. In addition It provide
 
