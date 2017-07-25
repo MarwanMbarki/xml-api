@@ -9,7 +9,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$database = "vehicleSimple";
+$database = "vehiclesimple";
 $dbcon = new mysqli($servername,$username,$password,$database);
 // Check connection
 if ($dbcon->connect_error) {
