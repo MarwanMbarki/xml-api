@@ -3,14 +3,6 @@
  * Created by PhpStorm.
  * User: MARWAN MBARKI
  * Date: 11/07/2017
- * GitHub: https://github.com/MarwanMbarki
- */
-?>
-<?php
-/**
- * Created by PhpStorm.
- * User: MARWAN MBARKI
- * Date: 11/07/2017
  * Time: 12:06
  * GitHub: https://github.com/MarwanMbarki
  */
