@@ -24,7 +24,7 @@
 <body>
 <div class="container">
     <div class="row">
-        <h2>Sample Vehicle Details loaded From an XML File</h2>
+        <h2>Vehicle Details loaded From an XML File</h2>
         <br>
     </div>
 </div>
