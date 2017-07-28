@@ -6,4 +6,3 @@ Web aplication help the user to upload and XML file to MySQL Database. In additi
 * Fetch readable data to the browser from the Database.
 * Parse an XML file directly to the browser.
 * Get the data from the database as a JSON format, which could used by third party.
-------------------
