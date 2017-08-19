@@ -8,7 +8,7 @@
 /*Database Connection*/
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "root";
 $database = "vehiclesimple";
 $dbcon = new mysqli($servername,$username,$password,$database);
 // Check connection
