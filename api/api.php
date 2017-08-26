@@ -37,7 +37,7 @@ function insertXml(){
             $fuel_type = $car->fuel_type;
 
 
-            /*INSERTION QUERY*/
+            /*INSERT QUERY*/
             $addData = "INSERT INTO vehicule (manufacturer,model,type_v,usage_v,license_plate,weight_category,no_seats,has_boot,has_trailer,
                                                   owner_name,owner_company,owner_profession,transmission,colour,is_hgv,no_doors,sunroof,has_gps,no_wheels,engine_cc,fuel_type) 
                             VALUES ('$manufacturer','$model','$type','$usage','$license_plate','$weight_category','$no_seats','$has_boot','$has_trailer',
