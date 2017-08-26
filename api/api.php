@@ -8,7 +8,7 @@
 /*Funcion To insert XML File to MySQL*/
 function insertXml(){
     if(isset($_POST['btnImport'])) {
-        /* REQUIERE DATABASE */
+        /* REQUIRE DATABASE */
         require_once './db-connect.php';
 
         $target_dir = "./uploads/";
