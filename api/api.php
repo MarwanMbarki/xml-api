@@ -5,7 +5,7 @@
  * Date: 11/07/2017
  * GitHub: https://github.com/MarwanMbarki
  */
-/*Funcion To insert the XML File to MySQL*/
+/*Funcion To insert XML File to MySQL*/
 function insertXml(){
     if(isset($_POST['btnImport'])) {
         /*CALL DATABASE*/
